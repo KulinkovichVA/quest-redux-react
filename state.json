@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"INCREMENT\"},{\"type\":\"INCREMENT10\"},{\"type\":\"DECREMENT\"},{\"type\":\"RESET\"},{\"type\":\"DECREMENT10\"}]"
+}
